@@ -1,3 +1,95 @@
+/* estilo do exercicio 1*/
+.tabela{
+	border:1px solid black;
+	position: absolute;
+	text-align:center;
+	margin-left:300px;
+	padding:20px;
+	font-weight:bolder;
+	font-style:verdana;
+	font-size:12;
+	color:red;
+	line-height:2;
+	margin-top:20px;
+	font-family:sans-serif;
+	}
+	
+/*estilo do exercicio 2*/
+
+
+.tit{
+	border:1px solid black;
+	font-size:23;
+	font-family:sans-serif;
+	text-align:center;
+	padding: 10px 50px;
+	font-weight:bold;
+	position:absolute;
+	margin-left:300px;
+	border-bottom-color:blue;
+	
+}
+
+.inicio1{
+	color:blue;
+	font-family:sans-serif;
+	line-height:1;
+
+}
+.inicio2{
+	color:green;
+	font-weight: bolder;
+	font-size:12;
+	font-family:sans-serif;
+	line-height:1;
+
+}
+.inicio3{
+	color:yellow;
+	font-style:italic;
+	font-size:12;
+	font-family:sans-serif;
+		line-height:1;
+
+}
+.meio{
+	color:red;
+	text-decoration:underline;
+	font-size:12;
+	font-family:sans-serif;
+		line-height:1;
+
+}
+.final{
+	color:purple;
+	font-size:12;
+	margin-left:45px;
+		line-height:1;
+
+}
+.final1{
+	margin-left:145px:
+}
+.final2{
+	margin-left:55px;
+}
+.final3{
+	margin-left:45px:
+}
+.final4{
+	margin-left:55px;
+}
+.borda{
+	border:1px solid black;
+	border-top:none;
+	margin-left:300px;
+	margin-top:58px;
+	position:absolute;
+	padding:0px 142px 0px 2px;
+		
+
+}
+
 /* estilo do exercicio 3*/
 
 .tab {display: inline}
@@ -166,8 +258,6 @@
   	font-weight: bolder;
   	font-style: italic;
 }
-
-
 
 
 
