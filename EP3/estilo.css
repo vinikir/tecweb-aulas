@@ -92,7 +92,10 @@
 
 /* estilo do exercicio 3*/
 
-.tab {display: inline}
+.tab {
+	display: inline;
+	font-family:sans-serif;
+}
 
  .nome {
  	border:1px solid;
